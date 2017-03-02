@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="zh-hant">
+    <head>
+        <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+        <meta charset="utf-8">
+        <meta property="og:title" content="臨登工廠地圖">
+        <meta property="og:description" content="臨登工廠地圖以登記工廠名錄、臺灣各工業區範圍圖為基礎，運用經濟部 EGIS 取得工廠點位，搭配天下雜誌全台違章工廠地圖資料為基礎進行繪製">
+        <meta property="og:type" content="website">
+        <meta property="og:image" content="http://kiang.github.io/factory_data/og_image.png">
+        <title>臨登工廠地圖</title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ol3/3.20.1/ol.css" type="text/css">
+        <link rel="stylesheet" href="plugins/ol3-popup.css" type="text/css">
+        <style>
+            html, body {
+                margin: 0;
+                padding: 0;
+                height: 100%;
+                width: 100%;
+            }
+            .ol-popup-content {
+                width: 300px;
+            }
+            td {
+                border: 1px solid black;
+                margin: 0;
+                padding: 3px;
+            }
+            #map {
+                position: absolute;
+                width: auto;
+                height: auto;
+                top: 50px;
+                left: 0;
+                right: 0;
+                bottom: 0;
+            }
+        </style>
+    </head>
+    <body>
+        <!-- Fixed navbar -->
+        <nav class="navbar navbar-default navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <a class="navbar-brand" href="#">臨登工廠地圖</a>
+                </div>
+                <div id="navbar" class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li><a href="https://github.com/kiang/factory_data/" target="_blank">Source @ Github</a></li>
+                        <li><a href="http://data.gov.tw/node/6569" target="_blank">登記工廠名錄</a></li>
+                        <li><a href="http://data.gov.tw/node/25598" target="_blank">臺灣各工業區範圍圖</a></li>
+                        <li><a href="http://egis.moea.gov.tw/" target="_blank">經濟部EGIS</a></li>
+                        <li><a href="http://topic.cw.com.tw/2016landfactory/map.html" target="_blank">天下雜誌全台違章工廠地圖</a></li>
+                    </ul>
+                    <p class="navbar-text navbar-right"></p>
+                </div><!--/.nav-collapse -->
+            </div>
+        </nav>
+        <div id="map" class="map"></div>
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+        <!-- The line below is only needed for old environments like Internet Explorer and Android 4.x -->
+        <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=requestAnimationFrame,Element.prototype.classList,URL"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/ol3/3.20.1/ol.js"></script>
+        <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+        <script src="plugins/ol3-popup.js"></script>
+        <script src="main.js"></script>
+    </body>
+</html>
