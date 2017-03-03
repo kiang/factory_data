@@ -1,0 +1,908 @@
+<!DOCTYPE html>
+<html lang='zh_tw'>
+<head>
+<link href='http://www.cto.moea.gov.tw/favicon.png' rel='icon' size='32x32'>
+<!-- Meta -->
+<meta charset = 'utf-8'>
+<meta name = 'keywords' content = '公司登記'>
+<meta name = 'description' content = '經濟部中部辦公室'>
+<meta name = 'generator' content = 'ie7'>
+<meta name = 'revisit-after' content = '3 days'>
+<meta name = 'robots' content = 'ALL'>
+<meta name = 'distribution' content = 'global'>
+<meta name = 'Creation-Date' content = '01-01-2015 00:00:00'>
+<meta name='viewport' content='width=device-width, initial-scale=1.0'>
+<script src = 'http://www.cto.moea.gov.tw/include/psvd.js' type = 'text/javascript'></script>
+</head>
+<!-- CSS Global Compulsory 其本css -->
+<link rel='stylesheet' href='http://www.cto.moea.gov.tw/assets/plugins/bootstrap/css/bootstrap.css'>
+<link rel='stylesheet' href='http://www.cto.moea.gov.tw/assets/css/style.css'>
+<!-- CSS Page Style -->
+<link rel='stylesheet' href='http://www.cto.moea.gov.tw/assets/css/pages/page_job.css'>
+<link rel='stylesheet' href='http://www.cto.moea.gov.tw/assets/css/pages/page_clients.css'>
+<link rel='stylesheet' href='http://www.cto.moea.gov.tw/assets/plugins/font-awesome/css/font-awesome.css'>
+<link rel='stylesheet' href='http://www.cto.moea.gov.tw/assets/plugins/line-icons/line-icons.css'>
+<link rel='stylesheet' href='http://www.cto.moea.gov.tw/assets/plugins/fancybox/source/jquery.fancybox.css'>
+<link rel='stylesheet' href='http://www.cto.moea.gov.tw/assets/plugins/flexslider/flexslider.css'>
+<link rel='stylesheet' href='http://www.cto.moea.gov.tw/assets/plugins/owl-carousel/owl-carousel/owl.carousel.css'>
+<link rel='stylesheet' href='http://www.cto.moea.gov.tw/assets/plugins/cube-portfolio/cubeportfolio/css/cubeportfolio.css'>
+<link rel='stylesheet' href='http://www.cto.moea.gov.tw/assets/css/pages/profile.css'>
+<link rel='stylesheet' href='http://www.cto.moea.gov.tw/assets/css/custom.css'>
+<meta charset="utf-8"/>
+<!--[if lte IE 9]>
+<div style='border: 1px solid #F7941D; background: #FEEFDA; text-align: center; clear: both; height: 75px; position: relative;'>
+  <div style='position: absolute; right: 3px; top: 3px; font-family: courier new; font-weight: bold;'>
+    <a href='#' onclick='javascript:this.parentNode.parentNode.style.display="none"; return false;'><img src='http://www.ie6nomore.com/files/theme/ie6nomore-cornerx.jpg' style='border: none;' alt='Close this notice'/></a>
+  </div>
+  <div style='width: 640px; margin: 0 auto; text-align: left; padding: 0; overflow: hidden; color: black;'>
+    <div style='width: 75px; float: left;'><img src='http://www.ie6nomore.com/files/theme/ie6nomore-warning.jpg' alt='Warning!'/></div>
+    <div style='width: 275px; float: left; font-family: Arial, sans-serif;'>
+      <div style='font-size: 14px; font-weight: bold; margin-top: 12px;'>您的瀏覽器版本過於老舊</div>
+      <div style='font-size: 12px; margin-top: 6px; line-height: 12px;'>為了避免發生安全性/操作問題，請更新為右方新版的瀏覽器。</div>
+    </div>
+    <div style='width: 75px; float: left;'><a href='http://www.firefox.com' target='_blank'><img src='http://www.ie6nomore.com/files/theme/ie6nomore-firefox.jpg' style='border: none;' alt='Get Firefox 3.5'/></a></div>
+    <div style='width: 75px; float: left;'><a href='http://windows.microsoft.com/zh-tw/internet-explorer/downloads/ie' target='_blank'><img src='http://www.ie6nomore.com/files/theme/ie6nomore-ie8.jpg' style='border: none;' alt='Get Internet Explorer 8'/></a></div>
+    <div style='width: 73px; float: left;'><a href='http://www.apple.com/tw/safari/download/' target='_blank'><img src='http://www.ie6nomore.com/files/theme/ie6nomore-safari.jpg' style='border: none;' alt='Get Safari 4'/></a></div>
+    <div style='float: left;'><a href='http://www.google.com/chrome' target='_blank'><img src='http://www.ie6nomore.com/files/theme/ie6nomore-chrome.jpg' style='border: none;' alt='Get Google Chrome'/></a></div>
+  </div>
+</div>
+<![endif]-->  </head>
+<title>經濟部中部辦公室--工業行政-臺中市劃定特定地區公告</title>
+<body>
+<div class="wrapper">
+
+<!-- Header ----------------------------------------->    
+<div class='header'>
+
+<style>
+@media (max-width: 767px) {	
+.header .navbar-brand {
+    z-index: 1;
+    top: 0px;
+    height: 100%;
+    position: relative;
+    padding: 0 10px 10px;
+}
+}
+
+</style>
+
+
+
+<!-- Topbar -->
+<div class="topbar "><div class="container"><div class="row">
+ 
+            
+            
+            
+             
+        <!-- Topbar Navigation -->
+                <div class=" col-md-12  col-sm-12"  style="z-index:100; text-align:right;">
+                <ul class="loginbar pull-right">
+	<li><span style="font-size:15px;"><a href="http://www.cto.moea.gov.tw/web/sitemap/index.php">網站導覽</a></span></li>
+	<li class="topbar-devider">&nbsp;</li>
+	<li><span style="font-size:15px;"><a href="http://www.cto.moea.gov.tw/index.php?lang=zh_tw">回首頁</a></span></li>
+	<li class="topbar-devider">&nbsp;</li>
+	<li><span style="font-size:15px;"><a href="http://163.29.66.11/main.asp" target="_blank">舊網站 </a></span></li>
+	<li class="topbar-devider">&nbsp;</li>
+	<li><span style="font-size:15px;"><a href="http://www.cto.moea.gov.tw/web/about/page.php?lang=en&amp;scid=38&amp;sid=20">English</a></span></li>
+	<li class="topbar-devider">&nbsp;</li>
+	<li><span style="font-size:15px;"><a href="http://www.cto.moea.gov.tw/web/leadermail/page.php?scid=25&amp;sid=19">首長信箱</a></span></li>
+	<li class="topbar-devider">&nbsp;</li>
+	<li><span style="font-size:15px;"><a href="http://www.cto.moea.gov.tw/web/ethics/page.php?lang=zh_tw&amp;scid=15&amp;sid=15">政風業務</a></span></li>
+</ul>
+                </div>
+           <!-- End Topbar Navigation -->
+            
+                       
+            
+            
+          
+
+           
+
+ <a class='navbar-brand' href=http://www.cto.moea.gov.tw/><img id='logo-header' src=http://www.cto.moea.gov.tw//assets/img/logo1-default.png alt='Logo'></a>      
+
+                
+<!-- Search 搜尋 -->
+<!-- google 自定搜尋 -->
+<script language = 'javascript'>
+<!--
+function check_search_type()
+{
+	var obj = document.web_search;
+	if ( obj.search_type[1].checked )
+	{
+		obj.action = 'http://www.google.com/cse';
+		obj.method = 'get';
+	}else if ( obj.search_type[0].checked )
+	{
+		obj.action = 'http://www.cto.moea.gov.tw/web/search/search.php';
+		obj.method = 'post';
+	}else{
+		obj.action = '';
+	}
+	obj.submit();
+}
+
+function check_search_type()
+{
+	var obj = document.web_search;
+	if ( obj.search_type[1].checked )
+	{
+		obj.action = 'http://www.google.com/cse';
+		obj.method = 'get';
+	}else if ( obj.search_type[0].checked )
+	{
+		obj.action = 'http://www.cto.moea.gov.tw/web/search/search.php';
+		obj.method = 'post';
+	}else{
+		obj.action = '';
+	}
+	obj.submit();
+}
+
+
+function change_search_action()
+{
+	var obj = document.web_search;
+	if ( obj.search_type[1].checked )
+	{
+		obj.action = 'http://www.google.com/cse';
+		obj.method = 'get';
+	}else( obj.search_type[0].checked )
+	{
+		obj.action = 'http://www.cto.moea.gov.tw/web/search/search.php';
+		obj.method = 'post';
+	}
+}
+
+//-->
+</script>
+
+<style>.searchnone{ display:none; } </style>
+
+
+<form action='http://www.google.com/cse' id='web_search' name = 'web_search' target='_self' method = 'get' class="input-group  col-md-4 col-md-offset-8 col-xs-12" style="padding:10px 0 0 0;">
+
+
+<input class="searchnone" type = 'radio' id = 'search_type' name = 'search_type' value = '1' onclick = 'change_search_action()'>
+<input class="searchnone" type = 'radio' id = 'search_type' name = 'search_type' value = '0' checked onclick = 'change_search_action()'>
+
+<input name='cx' type='hidden' value='001221775604542665470:hxprqrhf-om' />
+<input name='ie' type='hidden' value='UTF-8' />
+
+
+<input type = 'hidden' id = 'search_now' name = 'search_now' value = '1'>
+<input type = 'hidden' id = 'actions' name = 'actions' value = 'search'>
+
+<input name='q' id='q' type="text" class="form-control"  placeholder="請輸入關鍵字搜尋">
+<span class="input-group-btn"><button id="searchbtn" name='sa' class="btn-u" type="button" onclick = 'check_search_type()' />搜尋</button></span>
+
+   
+</form>
+
+<!-- google 自定搜尋 end  -->                       
+<!-- End Search 搜尋 -->
+                
+        
+          
+</div></div></div>
+<!-- End Topbar -->
+    
+
+
+
+
+ 
+
+
+
+
+<style>
+.header .navbar {position: relative; min-height: 45px;}
+.header .navbar-toggle:hover {background: #0046A7 !important;}/* 小選單按鈕*/
+.header .navbar-header {background: #fff;}
+
+
+
+@media (min-width: 992px){
+.header .dropdown-menu li a {  /*第二層文字設定*/
+    color: #000;
+    font-size: 16px; /* 只改字級 */
+    font-weight: 400;
+    padding: 6px 15px;
+    border-bottom: solid 1px #eee;
+}
+
+.header .navbar-default { /*navbar 背景色*/
+    border: none;
+    background: #0046A7;
+	max-height: 100px;
+    min-height: 45px;
+}
+
+.header .navbar-nav { float: left;} /*ul 對齊左邊*/  /*以下為選單顏色設定*/
+.header .navbar-default .navbar-nav > .open > a, .header .navbar-default .navbar-nav > .open > a:hover, .header .navbar-default .navbar-nav > .open > a:focus { color: #FFCD01;	}
+.header .navbar-default .navbar-nav > li > a {color: #fff; font-size: 16px; font-weight: 400; text-transform: uppercase;}
+.header .navbar-default .navbar-nav > .active > a {color: #fff;}
+.header .navbar-default .navbar-nav > li > a:hover {color: #FFCD01;}
+.header .navbar-default .navbar-nav > li:hover > a { color: #FFCD01;  }
+
+}
+
+
+@media (min-width: 1200px){
+.header .navbar-default .navbar-nav > li > a {
+    bottom: -2px;
+    position: relative;
+    padding: 11px 40px 11px 30px;
+}
+}
+
+
+
+
+
+
+</style>
+
+
+
+
+
+
+
+
+
+  <!-- Navbar -->
+<div class='navbar navbar-default mega-menu' role='navigation'  >
+<div class="container">
+<div class="row">
+
+<div class="navbar-header">
+<!-- 手機版用主導覽 -->  <button type="button" data-toggle="collapse" data-target=".navbar-responsive-collapse"  class="navbar-toggle">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="fa fa-bars"></span>
+                    </button>   <!-- end手機版用主導覽 -->
+
+</div>
+
+                         
+<!-- Collect the nav links, forms, and other content for toggling  主導覽 -->
+<div class='collapse navbar-collapse navbar-responsive-collapse'>
+<ul class='nav navbar-nav' >
+<li class='dropdown'><a href = 'http://www.cto.moea.gov.tw/web/about/page.php?scid=1&sid=1' class='dropdown-toggle' data-toggle='dropdown' >本室介紹</a>
+
+<ul class='dropdown-menu'>
+ <li><a href = 'http://www.cto.moea.gov.tw/web/about/page.php?scid=1&sid=1'>沿革</a>
+   </li>
+ <li><a href = 'http://www.cto.moea.gov.tw/web/about/page.php?scid=2&sid=2'>首長介紹</a>
+   </li>
+ <li><a href = 'http://www.cto.moea.gov.tw/web/about/page.php?scid=3&sid=3'>組織架構</a>
+   </li>
+ <li><a href = 'http://www.cto.moea.gov.tw/web/about/page.php?scid=4&sid=4'>交通路線</a>
+   </li>
+</ul>
+</li>
+<li class='dropdown'><a href = 'http://www.cto.moea.gov.tw/web/organization/page.php?scid=5&sid=5' class='dropdown-toggle' data-toggle='dropdown' >組織職掌</a>
+
+<ul class='dropdown-menu'>
+ <li><a href = 'http://www.cto.moea.gov.tw/web/organization/page.php?scid=5&sid=5'>行政單位</a>
+   </li>
+ <li><a href = 'http://www.cto.moea.gov.tw/web/organization/page.php?scid=6&sid=6'>業務單位</a>
+   </li>
+ <li><a href = 'http://www.cto.moea.gov.tw/web/statistics/list.php?cid=1' target = '_self'>業務統計</a>
+   </li>
+</ul>
+</li>
+<li class='dropdown'><a href = 'http://www.cto.moea.gov.tw/web/news/list.php' target = '_self' >訊息公告</a>
+
+<ul class='dropdown-menu'>
+ <li><a href = 'http://www.cto.moea.gov.tw/web/news/list.php?cid=1' target = '_self'>最新消息</a>
+   </li>
+ <li><a href = 'http://www.cto.moea.gov.tw/web/news/list.php?cid=2' target = '_self'>會議公告</a>
+   </li>
+ <li><a href = 'http://www.cto.moea.gov.tw/web/news/list.php?cid=3' target = '_self'>樂活市集</a>
+   </li>
+</ul>
+</li>
+<li class='dropdown'><a href = 'http://www.cto.moea.gov.tw/web/application/list.php' target = '_self' >申辦業務</a>
+
+<ul class='dropdown-menu'>
+ <li><a href = 'http://www.cto.moea.gov.tw/web/application/list.php?cid=6' target = '_self'>工業行政</a>
+   </li>
+ <li><a href = 'http://www.cto.moea.gov.tw/web/application/list.php?cid=7' target = '_self'>自用發電設備登記</a>
+   </li>
+ <li><a href = 'http://www.cto.moea.gov.tw/web/application/list.php?cid=8' target = '_self'>公司登記</a>
+   </li>
+ <li><a href = 'http://www.cto.moea.gov.tw/web/application/list.php?cid=74' target = '_self'>公司與有限合夥名稱預查</a>
+   </li>
+ <li><a href = 'http://www.cto.moea.gov.tw/web/application/list.php?cid=81' target = '_self'>決算書表查核</a>
+   </li>
+ <li><a href = 'http://www.cto.moea.gov.tw/web/application/list.php?cid=9' target = '_self'>巿場及攤販輔導管理</a>
+   </li>
+ <li><a href = 'http://www.cto.moea.gov.tw/web/application/list.php?cid=86' target = '_self'>電子遊戲機查驗貼證</a>
+   </li>
+</ul>
+</li>
+<li class='dropdown'><a href = 'http://www.cto.moea.gov.tw/web/download/list.php' target = '_self' >表單下載</a>
+
+<ul class='dropdown-menu'>
+ <li><a href = 'http://www.cto.moea.gov.tw/web/download/list.php?cid=6' target = '_self'>工業行政</a>
+   </li>
+ <li><a href = 'http://www.cto.moea.gov.tw/web/download/list.php?cid=33' target = '_self'>自用發電設備登記</a>
+   </li>
+ <li><a href = 'http://www.cto.moea.gov.tw/web/download/list.php?cid=36' target = '_self'>公司登記</a>
+   </li>
+ <li><a href = 'http://www.cto.moea.gov.tw/web/download/list.php?cid=50' target = '_self'>公司與有限合夥名稱預查</a>
+   </li>
+ <li><a href = 'http://www.cto.moea.gov.tw/web/download/list.php?cid=53' target = '_self'>決算書表查核 </a>
+   </li>
+ <li><a href = 'http://www.cto.moea.gov.tw/web/download/list.php?cid=58' target = '_self'>督導閒置市場營運活化辦理機制相關書表</a>
+   </li>
+ <li><a href = 'http://www.cto.moea.gov.tw/web/download/list.php?cid=56' target = '_self'>電子遊戲機查驗貼證</a>
+   </li>
+</ul>
+</li>
+<li class='dropdown'><a href = 'http://www.cto.moea.gov.tw/web/question/list.php' target = '_self' >常見問答</a>
+
+<ul class='dropdown-menu'>
+ <li><a href = 'http://www.cto.moea.gov.tw/web/question/list.php?action=search&category1=1&category2=1' target = '_self'>工業行政</a>
+   </li>
+ <li><a href = 'http://gcis.nat.gov.tw/crm/index.jsp' target = '_blank'>公司登記</a>
+   </li>
+ <li><a href = 'http://www.cto.moea.gov.tw/web/question/list.php?action=search&category1=3&category2=4' target = '_self'>為民服務問卷廠商反映意見問答Q＆A集</a>
+   </li>
+ <li><a href = 'http://gcis.nat.gov.tw/crm/index.jsp' target = '_self'>公司與有限合夥名稱預查</a>
+   </li>
+</ul>
+</li>
+<li class='dropdown'><a href = 'http://www.cto.moea.gov.tw/web/service/page.php?scid=8&sid=8' class='dropdown-toggle' data-toggle='dropdown' >為民服務</a>
+
+<ul class='dropdown-menu'>
+ <li><a href = 'http://www.cto.moea.gov.tw/web/service/page.php?scid=8&sid=8'>處理民眾意見反應及輿情作業規定</a>
+   </li>
+ <li><a href = 'http://www.cto.moea.gov.tw/upload/sitemap/106.1為民服務白皮書.pdf' target = '_blank'>為民服務白皮書</a>
+   </li>
+ <li><a href = 'http://www.cto.moea.gov.tw/web/service/page.php?scid=10&sid=10'>首長與民有約</a>
+   </li>
+ <li><a href = 'http://www.cto.moea.gov.tw/web/question/list.php?action=search&category1=3&category2=4' target = '_self'>為民服務問卷廠商反映意見問答(Ｑ＆Ａ)集</a>
+   </li>
+ <li><a href = 'http://www.cto.moea.gov.tw/web/service/page.php?scid=12&sid=12'>服務場所無障礙設施</a>
+   </li>
+ <li><a href = 'http://www.cto.moea.gov.tw/upload/sitemap/105.1.28執行計畫.pdf' target = '_blank'>105年度提升服務品質執行計畫</a>
+   </li>
+ <li><a href = 'http://www.cto.moea.gov.tw/upload/sitemap/105.5考核1成績及評分表公布.pdf' target = '_blank'>105年度提升服務品質執行計畫(第1次自行考核)</a>
+   </li>
+ <li><a href = 'http://www.cto.moea.gov.tw/upload/sitemap/105.9考核2成績及評分表公布.pdf' target = '_blank'>105年度提升服務品質執行計畫(第2次自行考核)</a>
+   </li>
+</ul>
+</li>
+<li class='dropdown'><a href = 'http://www.cto.moea.gov.tw/web/information/page.php?scid=26&sid=' class='dropdown-toggle' data-toggle='dropdown' >資訊公開</a>
+
+<ul class='dropdown-menu'>
+ <li><a href = 'http://www.cto.moea.gov.tw/web/law/list.php?action=search&category1=1&category2=1' target = '_self'>法規命令</a>
+   </li>
+ <li><a href = 'http://www.cto.moea.gov.tw/web/information/page.php?scid=27&sid=16'>行政指導有關文書(無此項資料)</a>
+   </li>
+ <li><a href = 'http://www.cto.moea.gov.tw/web/project/list.php' target = '_self'>施政計畫</a>
+   </li>
+ <li><a href = 'http://www.cto.moea.gov.tw/web/statistics/list.php' target = '_self'>業務統計</a>
+   </li>
+ <li><a href = 'http://www.cto.moea.gov.tw/web/accounting/list.php' target = '_self'>預算、決算書及會計月報</a>
+   </li>
+ <li class='dropdown-submenu'><a href = 'http://www.cto.moea.gov.tw/web/information/page.php?scid=31&sid=17'>請願之處理結果及訴願之決定</a>
+<ul class='dropdown-menu'>
+      <li><a href = 'http://www.cto.moea.gov.tw/web/information/page.php?scid=31&sid=17' target = '_self'>請願之處理結果：本室無此項資料</a></li>
+      <li><a href = 'https://aadmz.moea.gov.tw/AADoms/jsp/AA90/AA901011.jsp' target = '_blank'>訴願之決定(經濟部訴願審議委員會查詢系統)</a></li>
+</ul>
+   </li>
+ <li><a href = 'http://www.cto.moea.gov.tw/web/purchase/list.php' target = '_self'>書面之公共工程及採購契約</a>
+   </li>
+ <li><a href = 'http://www.cto.moea.gov.tw/web/grants/list.php' target = '_self'>支付或接受之補助</a>
+   </li>
+ <li><a href = 'http://www.cto.moea.gov.tw/web/information/page.php?scid=34&sid=33'>合議制機關(非合議制機關)</a>
+   </li>
+ <li><a href = 'http://www.cto.moea.gov.tw/web/advertising/list.php' target = '_self'>辦理政策宣導之廣告</a>
+   </li>
+ <li><a href = 'http://www.cto.moea.gov.tw/web/video/list.php' target = '_self'>影音紀錄</a>
+   </li>
+ <li><a href = 'http://www.cto.moea.gov.tw/web/information/page.php?scid=64&sid=43'>重大政策</a>
+   </li>
+ <li><a href = 'http://www.cto.moea.gov.tw/web/information/page.php?scid=65&sid=44'>就業資訊</a>
+   </li>
+ <li><a href = 'http://www.moea.gov.tw/MNS/populace/Award/Award.aspx?menu_id=17274&org_id=16' target = '_blank'>獎項專區</a>
+   </li>
+</ul>
+</li>
+
+</ul>
+</div>
+ </div>
+</div>
+</div>
+<!-- End Header ----------------------------------------->    
+
+
+
+
+
+
+<!-- Breadcrumbs ----------------------------------------->   
+    <div class="breadcrumbs">
+        <div class="container">
+            <h1 class="pull-left">
+			             
+			            </h1>
+            <ul class="pull-right breadcrumb">
+               <li><a href = 'http://www.cto.moea.gov.tw'>首頁</a></li>
+<li><a href = 'http://www.cto.moea.gov.tw/web/application/list.php'></a></li>
+<li><a href = 'http://www.cto.moea.gov.tw/web/application/list.php?cid=6'>工業行政</a></li>
+<li class='active'>臺中市劃定特定地區公告</li>
+  
+            </ul>
+        </div>
+    </div>
+<!-- End Breadcrumbs ----------------------------------------->     
+
+
+
+
+
+<!-- Content ------------------------------------------------> 
+<div class="container content">
+
+
+
+ 
+<div class="row">
+            <!-- Begin Sidebar Menu -->
+            <div class="col-md-3">
+             <ul class="list-group sidebar-nav-v1" id="sidebar-nav">
+<li class='list-group-item list-toggle active'>
+  <a href='list.php?cid=6' target='_self'>工業行政</a>
+</li>
+<li class='list-group-item list-toggle'>
+  <a href='list.php?cid=7' target='_self'>自用發電設備登記</a>
+</li>
+<li class='list-group-item list-toggle'>
+  <a href='list.php?cid=8' target='_self'>公司登記</a>
+</li>
+<li class='list-group-item list-toggle'>
+  <a href='list.php?cid=74' target='_self'>公司與有限合夥名稱預查<font color="#FF0000">《公司與有限合夥名稱及所營事業預查之申請，自106年1月1日起，由本辦公室受理申辦。》</font></a>
+</li>
+<li class='list-group-item list-toggle'>
+  <a href='list.php?cid=81' target='_self'>決算書表查核<font color="#FF0000">《決算書表查核之申請，自106年1月1日起，由本辦公室受理申辦。》</font></a>
+</li>
+<li class='list-group-item list-toggle'>
+  <a href='list.php?cid=9' target='_self'>巿場及攤販輔導管理</a>
+</li>
+<li class='list-group-item list-toggle'>
+  <a href='list.php?cid=86' target='_self'>電子遊戲機查驗貼證<font color="#FF0000">《自106年1月1日起，由本辦公室受理申辦。》</font></a>
+</li>
+</ul>
+
+            </div><!-- End Sidebar Menu --> 
+            
+            <!-- Begin Content -->
+            <div class="col-md-9">
+            
+
+
+<title>經濟部中部辦公室--工業行政-臺中市劃定特定地區公告</title>
+<div class='headline headline-md'><h2>臺中市劃定特定地區公告</h2></div>
+
+
+<ul class='list-inline'>
+<li><i class='fa fa-calendar color-green'></i>日期 : 2016-09-23</i>
+<li><i class='fa fa-briefcase color-green'></i>單位 : 第一科</i>
+<li><i class='fa fa-tags color-green'></i>分類 : 工業行政</i>
+<li><i class='fa fa-eye color-green'></i>點閱 : 328</i>
+<li style='float:right;'><!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-573564a27779bd55"></script>
+    
+    <!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox"></div><li></ul>
+</ul>
+
+
+
+<div class="panel panel-blue margin-bottom-40">
+<table class="table table-bordered table-striped table-hover">
+  <tbody>
+    <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018107/ch04/type3/gov31/num53/Eg.htm" target="_blank">經濟部公告：公告臺中市豐原區鎮宮段754、755、802-3、811、814、815、816、818、825、826、827及828地號等12筆土地，面積2.051923公頃（20519.23平方公尺）為特定地區，輔導期間至106年6月2日</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018129/ch04/type7/gov31/num17/Eg.htm" target="_blank">經濟部書函：更正第018卷第107期本部101年6月4日經授中字第10130001860號公告臺中市豐原區鎮宮段754、755、802-3、811、814、815、816、818、825、826、827及828地號等12筆土地，面積2.051923公頃（20519.23平方公尺）為特定地區，輔導期間至中華民國106年6月2日之附件如勘誤表</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018108/ch04/type3/gov31/num51/Eg.htm" target="_blank">經濟部公告：公告臺中市大里區西湖南段第384、385、385-2、385-4、385-5、391、392、393、394、395、396、397、400、401、402、403、403-1、403-2、406、407、408、409、410、411、412、413、414、415、416、418、421、422、423、424、425地號等35筆土地，面積4.139582公頃（41395.82平方公尺）為特定地區，輔導期間至106年6月2日</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018108/ch04/type3/gov31/num80/Eg.htm" target="_blank">經濟部公告：公告台中市大里區西湖南段54、55、56、56-1、56-2、57、58、59、60、61、62、63、64、65、66、86、87、88、89、97及98地號等21筆土地（面積32306.73平方公尺）為特定地區，輔導期間至106年6月2日</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018108/ch04/type3/gov31/num50/Eg.htm" target="_blank">經濟部公告：公告臺中市大里區西湖北段第865、866、867、868、871、876、877、878地號等8筆土地，面積2.191213公頃（21912.13平方公尺）為特定地區，輔導期間至106年6月2日</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018108/ch04/type3/gov31/num45/Eg.htm" target="_blank">經濟部公告：公告臺中市大里區仁美段86、91、91-1、86-1地號等4筆土地，面積3.726322公頃（37263.22平方公尺）為特定地區，輔導期間至106年6月2日</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018108/ch04/type3/gov31/num44/Eg.htm" target="_blank">經濟部公告：公告臺中市大里區仁美段38、39、40、52、52-1、52-2、52-3、52-4、54、55、56、51地號等12筆土地，面積2.400483公頃（24004.83平方公尺）為特定地區，輔導期間至106年6月2日</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018102/ch04/type3/gov31/num21/Eg.htm" target="_blank">經濟部公告：公告臺中市大里區西湖北段229、230、231、232、238、239、240、241、243、244、245、246、351地號等13筆土地，面積2.118421公頃（21184.21平方公尺）為特定地區，輔導期間至106年6月2日</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018102/ch04/type3/gov31/num22/Eg.htm" target="_blank">經濟部公告：公告臺中市大里區西湖北段15、16、16-1、17、19、21、384、385、386、387、388、389、390、391、392、393、398、399、400、401、402、403、404、405、406、407、408、409、410、411、412、413、414、415、416、417、418、419、420、421、422地號等41筆土地，面積4.881229公頃（48812.29平方公尺）為特定地區，輔導期間至106年6月2日</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018108/ch04/type3/gov31/num40/Eg.htm" target="_blank">經濟部公告：公告臺中市后里區舊社段424、424-1、424-2、101、101-20、101-21、101-22、101-23、101-24、101-25、101-26、101-27及101-28地號等13筆土地，面積4.0621公頃（40621平方公尺）為特定地區，輔導期間至106年6月2日</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018108/ch04/type3/gov31/num41/Eg.htm" target="_blank">經濟部公告：公告臺中市后里區中社段206-12、206-27、268、268-1（部分）、268-11（部分）、268-12（部分）、375、376、376-1、387（部分）、388、388-1、268-10（部分）、377、377-1（部分）、377-2及378（部分）等17筆土地，面積2.5722公頃（25722平方公尺）為特定地區，輔導期間至106年6月2日</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018189/ch04/type7/gov31/num11/Eg.htm" target="_blank">經濟部函：更正第018卷第108期本部101年6月4日經授中字第10130001830號「公告臺中市后里區中社段206-12、206-27、268、268-1（部分）、268-11（部分）、268-12（部分）、375、376、376-1、387（部分）、388、388-1、268-10（部分）、377、377-1（部分）、377-2及378（部分）等17筆土地，面積2.5722公頃（25722平方公尺）為特定地區，輔導期間至106年6月2日止」之公告內容及附圖如勘誤表</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018108/ch04/type3/gov31/num19/Eg.htm" target="_blank">經濟部公告：公告臺中市后里區公館段11、11-3、11-4、11-5、11-15、19、19-1、19-2、19-5、19-6、20-1、20-8、20-12及20-13地號等14筆土地，面積2.2094公頃（22094平方公尺）為特定地區，輔導期間至106年6月2日</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018108/ch04/type3/gov31/num57/Eg.htm" target="_blank">經濟部公告：公告臺中市西屯區東林段167及168地號等2筆土地，面積2.064889公頃（20648.89平方公尺）為特定地區，輔導期間至106年6月2日</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018107/ch04/type3/gov31/num16/Eg.htm" target="_blank">經濟部公告：公告臺中市南屯區台安段57-2、57-3、57-6、90-3、91、92地號等6筆土地，面積3.867555公頃（38675.55平方公尺）為特定地區，輔導期間至106年6月2日</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018108/ch04/type3/gov31/num60/Eg.htm" target="_blank">經濟部公告：公告臺中市烏日區螺潭段541、542、543、544、545、546、560、561、562、563、564、587、588、554、570、571及572地號等17筆土地，面積2.876237公頃（28762.37平方公尺）為特定地區，輔導期間至106年6月2日</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018108/ch04/type3/gov31/num39/Eg.htm" target="_blank">經濟部公告：公告臺中市烏日區溪南西段2233、2234、2235、2236、2237、2238、2239、2240、2241、2242、2404、2404-1、2405、2406、2407、2408、2409、2410、2411、2412地號等20筆土地，面積4.7759公頃（47759平方公尺）為特定地區，輔導期間至106年6月2日</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018108/ch04/type3/gov31/num75/Eg.htm" target="_blank">經濟部公告：公告台中市烏日區同安厝段623、623-5、623-18、623-19、623-20及648等6筆土地（面積24982平方公尺）為特定地區，輔導期間至106年6月2日</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018108/ch04/type3/gov31/num76/Eg.htm" target="_blank">經濟部公告：公告台中市烏日區同安厝段667-2、668、668-1、668-2、668-8、668-16、668-20、668-21、668-22、669-3及669-4等11筆土地（面積21458平方公尺）為特定地區，輔導期間至106年6月2日</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018108/ch04/type3/gov31/num30/Eg.htm" target="_blank">經濟部公告：公告台中市烏日區溪南東段1420、1421、1422、2248、2183、2184、2115、2116、2063、2064、2065、2066、1422-1、2061、2247、2246、2245、2181、2180、2179及2114地號等21筆土地（面積29145.18平方公尺）為特定地區，輔導期間至106年6月2日</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018107/ch04/type3/gov31/num34/Eg.htm" target="_blank">經濟部公告：公告臺中市烏日區螺潭段768、768-3、768-4、768-5、770、770-1、772、773、774、775、776、777、778、765、779、780、781及783地號等18筆土地，面積2.8771公頃（28771平方公尺）為特定地區，輔導期間至106年6月2日</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018106/ch04/type3/gov31/num28/Eg.htm" target="_blank">經濟部公告：公告臺中市烏日區螺潭段1123、1124、1125、1126、1127、1128、1129、1130、1131、1132、1133、1134、1135、1139、1140、1142、1143、1144、1137及1138地號等20筆土地，面積3.7296公頃（37296平方公尺）為特定地區，輔導期間至106年6月2日</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018108/ch04/type3/gov31/num35/Eg.htm" target="_blank">經濟部公告：公告台中市潭子區聚興段146、147、147-1、147-2、152、152-2、152-3、152-4、152-5及152-6地號等10筆土地（面積21827平方公尺）為特定地區，輔導期間至106年6月2日</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018108/ch04/type3/gov31/num34/Eg.htm" target="_blank">經濟部公告：公告台中市潭子區聚興段118、118-1、118-2、118-6、118-7、118-8、118-9、118-10、118-11、118-12、119、122-1、122-2、125、127-2、128、122、122-3、123及123-2地號等20筆土地（面積25871平方公尺）為特定地區，輔導期間至106年6月2日</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018107/ch04/type3/gov31/num33/Eg.htm" target="_blank">經濟部公告：公告臺中市潭子區聚興段156、156-1、159、159-6、159-4、159-5及159-3地號等7筆土地，面積2.3629公頃（23629平方公尺）為特定地區，輔導期間至106年6月2日</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018107/ch04/type3/gov31/num17/Eg.htm" target="_blank">經濟部公告：公告臺中市潭子區大埔厝段牛埔子小段17-1、17-3、17-5、19-13、24、24-6、36、37-1、37-2、37-3、37-4、37-5、37-9、37-19、37-26、37-27、37-28、37-30、37-31、37-32、116-1、116-2、117、118、119-1、119-3、119-4、125-2及129地號等29筆土地，面積4.625310公頃（46253.10平方公尺）為特定地區，輔導期間至106年6月2日</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018108/ch04/type3/gov31/num56/Eg.htm" target="_blank">經濟部公告：公告台中市外埔區新磁?段51、55、56、58、59、86、87、32、32-2、28、31、33、34、35、36、37、37-1、32-3、32-4、32-5、39、49、50、57、40、41、42、43、44、45、46、47、48、32-1及83地號等35筆土地（面積28124.85平方公尺）為特定地區，輔導期間至106年6月2日</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018108/ch04/type3/gov31/num36/Eg.htm" target="_blank">經濟部公告：公告台中市外埔區馬鳴埔段356-1、356-2、356-3、356-4、356-5、356-6、356-7、357、357-2、357-4、357-5、358、358-1、358-3、358-4、359-1、359-2、359-4、656、657、658、659及659-1地號等23筆土地（面積29228平方公尺）為特定地區，輔導期間至106年6月2日</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018099/ch04/type3/gov31/num16/Eg.htm" target="_blank">經濟部公告：公告臺中市外埔區三崁段969、970、971、972、973、974、974-1、975、975-1地號等9筆土地，面積4.699951公頃（46999.51平方公尺）為特定地區，輔導期間至106年6月2日</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018050/ch04/type3/gov31/num10/Eg.htm" target="_blank">經濟部公告：公告臺中市外埔區大甲東段72-45、79-5、79-42、79-44地號等4筆土地（面積22794平方公尺）為特定地區，輔導期間至106年6月2日</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018108/ch04/type3/gov31/num53/Eg.htm" target="_blank">經濟部公告：公告臺中市大雅區自強段2501、2502、2504、2504-1、2506、2506-1、2508、2510、2511、2512、2513、2514、2515、2940-1、2500、2496、2497、2495、2495-1、2491、2492、2492-1、2493及2488地號等24筆土地，面積2.8294公頃（28294平方公尺）為特定地區，輔導期間至106年6月2日</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018108/ch04/type3/gov31/num43/Eg.htm" target="_blank">經濟部公告：公告臺中市大甲區甲惠段418-1、420、421、422、423、448、449、450、467、468、469、469-1、470、471、472、473、474、475、476、477、478、478-1、479、480、501、502、503、504、505、506、507、555、556、556-1、556-2、581、582、583號等38筆土地，面積4.59872公頃（45987.2平方公尺）為特定地區，輔導期間至106年6月2日</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018108/ch04/type3/gov31/num29/Eg.htm" target="_blank">經濟部公告：公告台中市大甲區武陵段2、4、4-2、14地號、義和段37、38、39、40、44、45、46、50、51、52、53、54地號等16筆土地，面積2.1200公頃（21200平方公尺）為特定地區，輔導期間至106年6月2日</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018167/ch04/type7/gov31/num15/Eg.htm" target="_blank">經濟部函：更正第018卷第108期本部101年6月4日經授中字第10130001320號公告「台中市大甲區武陵段2、4、4-2、14地號、義和段37、38、39、40、44、45、46、50、51、52、53、54地號等16筆土地，面積2.1200公頃（21,200平方公尺）為特定地區，輔導期間至中華民國106年6月2日止」之公告內容附圖如勘誤表</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018107/ch04/type3/gov31/num32/Eg.htm" target="_blank">經濟部公告：公告臺中市大甲區武陵段239-2、240、241、242、242-1、249、259、270、270-1、274、238、239-3、275、275-1、239-1、239及281地號等17筆土地，面積4.358445公頃（43584.45平方公尺）為特定地區，輔導期間至106年6月2日</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018108/ch04/type3/gov31/num55/Eg.htm" target="_blank">經濟部公告：公告臺中市大肚區追分段662、662-2、662-4、663、664、665、667、668、669及769（部份）地號等10筆土地，面積為2.0175公頃（20175平方公尺）為特定地區，輔導期間至106年6月2日</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018086/ch04/type3/gov31/num13/Eg.htm" target="_blank">經濟部公告：公告臺中市大肚區溪洲段585地號等20筆土地劃定特定地區，輔導期間至106年6月2日</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018108/ch04/type3/gov31/num52/Eg.htm" target="_blank">經濟部公告：公告臺中市神岡區新庄子段第286-2、287-2、288、289、290-1、293、293-1、297、298地號等9筆土地，面積3.6444公頃（36444平方公尺）為特定地區，輔導期間至106年6月2日</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018108/ch04/type3/gov31/num82/Eg.htm" target="_blank">經濟部公告：公告台中市神岡區山皮段266-10、266-11、266-12、266-21、266-23、266-28、274-4、274-5、274-7、274-11、274-12、274、274-10、274-13及282-1地號等15筆土地（面積28507平方公尺）為特定地區，輔導期間至106年6月2日</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018108/ch04/type3/gov31/num54/Eg.htm" target="_blank">經濟部公告：公告台中市神岡區下溪洲段後壁厝小段448-1、448-2、449、450、451-2、768-1、768-10、768-35、778、448、449-1及451-1等12筆土地（面積27585.38平方公尺）為特定地區，輔導期間至106年6月2日</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018108/ch04/type3/gov31/num46/Eg.htm" target="_blank">經濟部公告：公告臺中市神岡區下溪洲段后寮小段29-100、29-101、29-105、29-115、29-404、29-849、29-851、29-853、29-879、29-880、29-881、29-882、29-883、29-1023、29-1024地號及未登錄地1筆等16筆土地，面積2.2230公頃（22230平方公尺）為特定地區，輔導期間至106年6月2日</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018108/ch04/type3/gov31/num58/Eg.htm" target="_blank">經濟部公告：公告台中市神岡區北庄段508-10、508-13、508-29、508-30、508-31、508-32、508-33、508-4、508-7、508-8、509、509-2、509-3、509-4及509-6地號等15筆土地（面積20557平方公尺）為特定地區，輔導期間至106年6月2日</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018108/ch04/type3/gov31/num81/Eg.htm" target="_blank">經濟部公告：公告台中市神岡區圳堵段318-5、319、319-17、319-18、319-19及神圳段1014-2、1014-3、1014-4、1016、1017、1018、1019、1019-1、1019-2、1019-3、1019-4、1020、1026、1027、1028、1032、1034、1035、1036、1049、1050、1051、1054、1055、1056、1057、1058、1059、1060、1061、1062、1063、1063-2、1066及1069地號等40筆土地（面積37128.99平方公尺）為特定地區，輔導期間至106年6月2日</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018107/ch04/type3/gov31/num61/Eg.htm" target="_blank">經濟部公告：公告台中市神岡區新庄子段188、188-13、189地號等3筆土地（面積27361平方公尺）為特定地區，輔導期間至106年6月2日</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018107/ch04/type3/gov31/num48/Eg.htm" target="_blank">經濟部公告：公告台中市神岡區北庄段146、146-6、146-22、146-23、146-24、146-27、146-28、146-29、149-3、149-4、150-14及150地號等12筆土地（面積21935平方公尺）為特定地區，輔導期間至106年6月2日</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018107/ch04/type3/gov31/num54/Eg.htm" target="_blank">經濟部公告：公告臺中市神岡區新庄子段233、234、235、235-1、242地號等5筆土地，面積2.3048公頃（23048平方公尺）為特定地區，輔導期間至106年6月2日</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018107/ch04/type3/gov31/num35/Eg.htm" target="_blank">經濟部公告：公告臺中市神岡區新庄子段489、493-3、493-4、494-4、495、495-1、496-1、496-2、497、498、498-1、499、499-1、499-2及500地號等15筆土地，面積3.8172公頃（38172平方公尺）為特定地區，輔導期間至106年6月2日</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018107/ch04/type3/gov31/num30/Eg.htm" target="_blank">經濟部公告：公告臺中市神岡區下溪洲段後壁厝小段5-2、5-14、7-4、7-6、11、11-1、11-2、11-5、11-8及11-9地號等10筆土地，面積2.0392公頃（20392平方公尺）為特定地區，輔導期間至106年6月2日</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018108/ch04/type3/gov31/num33/Eg.htm" target="_blank">經濟部公告：公告台中市石岡區新金星段152、153、154、155、156、157、158-1、160、431、1-1、1-13、1-14、1-15及1-16地號等14筆土地（面積21669.95平方公尺）為特定地區，輔導期間至106年6月2日</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018106/ch04/type3/gov31/num24/Eg.htm" target="_blank">經濟部公告：公告臺中市石岡區新金星段385、386、387、388、389、390、391、392、393、394、395、701、702、703、709、710、711、712、714、714-1、714-2、714-3、714-4、715、715-1、715-2、715-3、715-4、715-5、715-6、784、785、786、787、787-1、788、788-2、789、791、792及793地號等41筆土地，面積3.922254公頃（39222.54平方公尺）為特定地區，輔導期間至106年6月2日</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018108/ch04/type3/gov31/num28/Eg.htm" target="_blank">經濟部公告：公告台中市清水區海風段380、384、385、386、387、388、389地號等7筆土地，面積2.015695公頃（20156.95平方公尺）為特定地區，輔導期間至106年6月2日</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018108/ch04/type3/gov31/num18/Eg.htm" target="_blank">經濟部公告：公告臺中市清水區大突寮段十塊寮小段168-1、168-2、179、180-1、182、183、184、26-1、26-3、41、42、42-1、未登錄（2筆計288平方公尺）地號等14筆土地，面積3.3754公頃（33754平方公尺）為特定地區，輔導期間至106年6月2日</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018174/ch04/type7/gov31/num13/Eg.htm" target="_blank">經濟部函：更正第018卷第108期本部101年6月1日經授中字第10130001780號公告「臺中市清水區大突寮段十塊寮小段168-1、168-2、179、180-1、182、183、184、26-1、26-3、41、42、42-1、未登錄（2筆計288平方公尺）地號等14筆土地，面積3.3754公頃（33754平方公尺）為特定地區，輔導期間至中華民國106年6月2日止」之公告內容及附表如勘誤表</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018107/ch04/type3/gov31/num52/Eg.htm" target="_blank">經濟部公告：公告臺中市清水區海風段322、324、325、343、344、345、346、347、348、349、350、448、449、449-1、449-2、449-3、449-4、450、351-1、341-8、341-9地號等21筆土地，面積2.295317公頃（22953.17平方公尺）為特定地區，輔導期間至106年6月2日</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018107/ch04/type3/gov31/num31/Eg.htm" target="_blank">經濟部公告：公告臺中市清水區楊厝段1216、1217、1372、1373及1376地號等5筆土地，面積2.4427公頃（24427平方公尺）為特定地區，輔導期間至106年6月2日[</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg018107/ch04/type3/gov31/num46/Eg.htm" target="_blank">經濟部公告：公告台中市霧峰區南勢西段1286、1287、1300、1301、1302、1303及1304地號等7筆土地（面積27923.87平方公尺）為特定地區，輔導期間至106年6月2日</a></td>
+                   </tr>
+  </tbody>
+</table>
+</div><ul class='list-inline'>
+</ul>
+
+<ul class='list-inline'>
+</ul>
+
+<ul class='list-unstyled margin-0 padding-0'>
+<li><i class='fa fa-chevron-right color-green'>下一則：</i><a href = 'http://www.cto.moea.gov.tw/web/application/detail.php?cid=6&id=312&aid=32'>臺南市劃定特定地區公告</a></li>
+<li><i class='fa fa-chevron-left  color-green'> 上一則：</i><a href = 'http://www.cto.moea.gov.tw/web/application/detail.php?cid=6&id=310&aid=32'>高雄市劃定特定地區公告</a></li>
+</ul>
+
+
+
+
+<div class='color-green text-right'>
+<a href='list.php?cid=6&aid=32'>回列表</a>
+</div>
+            </div><!-- End Content -->               
+</div><!-- End class="row" -->
+
+
+</div><!-- end container-->
+<!-- End Content ------------------------------------------->
+
+
+
+
+
+<!-- Footer Version 1 ----------------------------------------->
+<div class='footer-v1'>
+
+       <div class='footer'>
+<div class='container'>
+
+<style type="text/css">.footer-v1 .footer { padding: 20px 0; background:#0046A7; }
+.footer-v1 .link-list li, .link-list li {border-top: solid 1px #2662B4;  }
+.footer-v1 .headline h2, .headline h3, .headline h4 {
+    margin: 0 0 -2px 0;
+    padding-bottom: 5px;
+    display: inline-block;
+    border-bottom: 2px solid #fff;
+}
+
+
+.footer-v1 .headline h2 a{color: #fff;}
+.footer-v1 .headline h2 a:hover{color: #fff;}
+.link-list a {
+    color: #ddd;
+    font-size: 15px;
+    padding: 6px 0px;
+    display: inline-block;
+    text-transform: uppercase;
+}
+.headline {
+    display: block;
+    margin: 10px 0 10px 0;
+    border-bottom: 1px dotted #e4e9f0;
+  }
+</style>
+<div class="row">
+<div class="col-md-2 col-sm-3 col-xs-6">
+<div class="headline">
+<h2><a href="http://www.cto.moea.gov.tw/web/about/page.php?scid=1&amp;sid=1">本室介紹</a></h2>
+</div>
+
+<ul class="list-unstyled link-list">
+	<li><a href="http://www.cto.moea.gov.tw/web/about/page.php?scid=1&amp;sid=1">沿革</a><i class="fa fa-angle-right"></i></li>
+	<li><a href="http://www.cto.moea.gov.tw/web/about/page.php?scid=2&amp;sid=2">首長介紹</a><i class="fa fa-angle-right"></i></li>
+	<li><a href="http://www.cto.moea.gov.tw/web/about/page.php?scid=3&amp;sid=3">組織架構</a><i class="fa fa-angle-right"></i></li>
+	<li><a href="http://www.cto.moea.gov.tw/web/about/page.php?scid=4&amp;sid=4">交通路線</a><i class="fa fa-angle-right"></i></li>
+</ul>
+</div>
+
+<div class="col-md-2 col-sm-3 col-xs-6">
+<div class="headline">
+<h2><a href="http://www.cto.moea.gov.tw/web/organization/page.php?scid=5&amp;sid=5">組織職掌</a></h2>
+</div>
+
+<ul class="list-unstyled link-list">
+	<li><a href="http://www.cto.moea.gov.tw/web/organization/page.php?scid=5&amp;sid=5">行政單位</a><i class="fa fa-angle-right"></i></li>
+	<li><a href="http://www.cto.moea.gov.tw/web/organization/page.php?scid=6&amp;sid=6">業務單位</a><i class="fa fa-angle-right"></i></li>
+	<li><a href="http://www.cto.moea.gov.tw/web/statistics/list.php?cid=1">業務統計</a><i class="fa fa-angle-right"></i></li>
+</ul>
+</div>
+
+<div class="col-md-2 col-sm-3 col-xs-6">
+<div class="headline">
+<h2><a href="http://www.cto.moea.gov.tw/web/news/list.php">訊息公告</a></h2>
+</div>
+
+<ul class="list-unstyled link-list">
+	<li><a href="http://www.cto.moea.gov.tw/web/news/list.php?cid=1">最新消息</a><i class="fa fa-angle-right"></i></li>
+	<li><a href="http://www.cto.moea.gov.tw/web/news/list.php?cid=2">會議公告</a><i class="fa fa-angle-right"></i></li>
+	<li><a href="http://www.cto.moea.gov.tw/web/news/list.php?cid=3">樂活市集</a><i class="fa fa-angle-right"></i></li>
+</ul>
+</div>
+
+<div class="col-md-2 col-sm-3 col-xs-6">
+<div class="headline">
+<h2><a href="http://www.cto.moea.gov.tw/web/application/application.php">申辦業務</a></h2>
+</div>
+
+<ul class="list-unstyled link-list">
+	<li><a href="http://www.cto.moea.gov.tw/web/application/list.php?cid=6">工業行政</a><i class="fa fa-angle-right"></i></li>
+	<li><a href="http://www.cto.moea.gov.tw/web/application/list.php?cid=7">自用發電設備登記</a><i class="fa fa-angle-right"></i></li>
+	<li><a href="http://www.cto.moea.gov.tw/web/application/list.php?cid=8">公司登記</a><i class="fa fa-angle-right"></i></li>
+	<li><a href="http://www.cto.moea.gov.tw/web/application/list.php?cid=9">巿場及攤販輔導管理</a><i class="fa fa-angle-right"></i></li>
+</ul>
+</div>
+
+<div class="col-md-2 col-sm-3 col-xs-6">
+<div class="headline">
+<h2><a href="http://www.cto.moea.gov.tw/web/download/list.php">表單下載</a></h2>
+</div>
+
+<ul class="list-unstyled link-list">
+	<li><a href="http://www.cto.moea.gov.tw/web/download/list.php?cid=6">工業行政</a><i class="fa fa-angle-right"></i></li>
+	<li><a href="http://www.cto.moea.gov.tw/web/download/list.php?cid=33">自用發電設備登記</a><i class="fa fa-angle-right"></i></li>
+	<li><a href="http://www.cto.moea.gov.tw/web/download/list.php?cid=36">公司登記</a><i class="fa fa-angle-right"></i></li>
+</ul>
+</div>
+
+<div class="col-md-2 col-sm-3 col-xs-6">
+<div class="headline">
+<h2><a href="http://www.cto.moea.gov.tw/web/question/list.php">常見問答</a></h2>
+</div>
+
+<div class="headline">
+<h2><a href="http://www.cto.moea.gov.tw/web/service/page.php?scid=8&amp;sid=8">為民服務</a></h2>
+</div>
+
+<div class="headline">
+<h2><a href="http://www.cto.moea.gov.tw/web/law/list.php">資訊公開</a></h2>
+</div>
+
+<div class="headline">
+<h2><a href="http://www.cto.moea.gov.tw/web/ethics/page.php?lang=zh_tw&amp;scid=15&amp;sid=15">政風業務</a></h2>
+</div>
+</div>
+
+</div><!--/container-->
+</div><!--/footer-->
+
+       <div class='copyright'>
+<div class='container'>
+
+
+
+<style type="text/css">.footer-v1 .copyright { background: #222; color:#999; border-top: none; padding: 30px 0 30px;  }
+
+.footer-v1 .copyright  a{ color:#fff;}
+</style>
+<div class="row" style="margin-bottom:10px">
+<div class="col-md-12"><img alt="Logo" data-pin-nopin="true" id="logo-header" src="/upload/images/logo1-default2.png" style="width: 200px; height: 30px;" /></div>
+</div>
+
+<div class="row">
+<div class="col-md-9">中部辦公室地址：54003南投市省府路４號 <a href="https://www.google.com.tw/maps/place/540%E5%8D%97%E6%8A%95%E7%B8%A3%E5%8D%97%E6%8A%95%E5%B8%82%E7%9C%81%E5%BA%9C%E8%B7%AF4%E8%99%9F/@23.957895,120.6844153,17z/data=!3m1!4b1!4m5!3m4!1s0x34693048645931c1:0x8b4643030a237469!8m2!3d23.957895!4d120.686604" style=" background-color:#0046A7; color:#FFF; padding:2px 5px; " target="_blank"><i class="fa fa-map-marker"></i> 電子地圖</a>　 <i class="fa fa-phone-square "></i> (049) 2359171(<a href="/upload/files/tel_1060103.pdf" target="_blank">電話表</a>)　|　<i class="fa fa-fax "></i> (049) 2358191總收文單位</div>
+
+<div class="col-md-9">櫃台服務時間：上午8:30～下午5:30<br />
+上班時間：上午8:30～中午12:30 |&nbsp;下午13:30～下午5:30<br />
+建議瀏覽器：Chrome，Firefox，IE10.0以上版本 ( 螢幕最佳顯示效果為1280*960 )<br />
+| <a href="http://www.cto.moea.gov.tw/web/declare/page.php?scid=56&amp;sid=35">政府網站資料開放宣告</a> | <a href="http://www.cto.moea.gov.tw/web/declare/page.php?scid=57&amp;sid=36">隱私權政策</a> | <a href="http://www.cto.moea.gov.tw/web/declare/page.php?scid=58&amp;sid=37">網站安全政策</a> |</div>
+
+
+
+
+
+
+
+
+
+<div class="col-md-3">
+<a href="http://www.handicap-free.nat.gov.tw/" target="_blank"> <img src="http://demo.psvd.com.tw/case/cto/upload/images/a_plus.jpg" alt="A+無障礙標籤" ></a>
+<a href="http://www.gov.tw/" target="_blank"> <img src="http://demo.psvd.com.tw/case/cto/upload/images/e_gov.gif" alt="我的e政府連結" ></a><br>
+更新日期：2017-02-08<br />
+您是本站第 134602位訪客
+
+</div>
+
+
+<div style='display:none'><img src = 'http://www.cto.moea.gov.tw/images/1.gif' alt='瀏覽人數'><img src = 'http://www.cto.moea.gov.tw/images/3.gif' alt='瀏覽人數'><img src = 'http://www.cto.moea.gov.tw/images/4.gif' alt='瀏覽人數'><img src = 'http://www.cto.moea.gov.tw/images/6.gif' alt='瀏覽人數'><img src = 'http://www.cto.moea.gov.tw/images/0.gif' alt='瀏覽人數'><img src = 'http://www.cto.moea.gov.tw/images/3.gif' alt='瀏覽人數'></div>
+
+
+</div><!--/container-->
+</div><!--/copyright-->
+       
+</div>
+<!-- End Footer Version 1 ----------------------------------------->
+
+
+
+
+</div><!--End wrapper-->
+</body></html>
+
+
+<!-- JS Global Compulsory -->
+<script type='text/javascript' src='http://www.cto.moea.gov.tw/assets/plugins/jquery/jquery.min.js'></script>
+<script type='text/javascript' src='http://www.cto.moea.gov.tw/assets/plugins/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='http://www.cto.moea.gov.tw/assets/plugins/bootstrap/js/bootstrap.min.js'></script>
+<!-- JS Implementing Plugins -->
+<script type='text/javascript' src='http://www.cto.moea.gov.tw/assets/plugins/back-to-top.js'></script>
+<script type='text/javascript' src='http://www.cto.moea.gov.tw/assets/plugins/cube-portfolio/cubeportfolio/js/jquery.cubeportfolio.min.js'></script>
+<script type='text/javascript' src='http://www.cto.moea.gov.tw/assets/plugins/fancybox/source/jquery.fancybox.pack.js'></script>
+<script type='text/javascript' src='http://www.cto.moea.gov.tw/assets/plugins/flexslider/jquery.flexslider-min.js'></script>
+<script type='text/javascript' src='http://www.cto.moea.gov.tw/assets/plugins/owl-carousel/owl-carousel/owl.carousel.js'></script>
+<!-- JS Page Level -->
+<script type='text/javascript' src='http://www.cto.moea.gov.tw/assets/js/app.js'></script>
+<script type='text/javascript' src='http://www.cto.moea.gov.tw/assets/js/plugins/fancy-box.js'></script>
+<script type='text/javascript' src='http://www.cto.moea.gov.tw/assets/js/plugins/cube-portfolio.js'></script>
+<script type='text/javascript' src='http://www.cto.moea.gov.tw/assets/js/plugins/owl-recent-works.js'></script>
+<script type='text/javascript' src='http://www.cto.moea.gov.tw/assets/js/custom.js'></script>
+<!-- 相簿必要 -->
+<script type='text/javascript'>
+jQuery(document).ready(function() { App.init();FancyBox.initFancybox();StyleSwitcher.initStyleSwitcher();});</script>
+<!-- carousel 滑動輪播必要 -->
+<script type='text/javascript'>
+jQuery(document).ready(function() {App.init();App.initSliders();StyleSwitcher.initStyleSwitcher(); OwlRecentWorks.initOwlRecentWorksV2();});</script>
+<!--[if lt IE 9]>
+<script src='http://www.cto.moea.gov.tw/assets/plugins/respond.js'></script>
+<script src='http://www.cto.moea.gov.tw/assets/plugins/html5shiv.js'></script>
+<script src='http://www.cto.moea.gov.tw/assets/js/plugins/placeholder-IE-fixes.js'></script>
+<![endif]-->
+<script type='text/javascript' src='../../assets/plugins/masonry/jquery.masonry.min.js'></script>     <script type='text/javascript' src='../../assets/js/app.js'></script><script type='text/javascript' src='../../assets/js/pages/blog-masonry.js'></script><script type='text/javascript' src='../../assets/js/plugins/style-switcher.js'></script><script type='text/javascript'>jQuery(document).ready(function() {App.init();StyleSwitcher.initStyleSwitcher();   });</script>
