@@ -71,13 +71,13 @@ var pointsLayer = new ol.layer.Vector({
         format: new ol.format.GeoJSON()
     }),
     style: new ol.style.Style({
-      image: new ol.style.Circle({
-        radius: 3,
-        fill: new ol.style.Fill({
-            color: 'black'
-        }),
-        stroke: new ol.style.Stroke({color: 'orange', width: 1})
-      })
+        image: new ol.style.Circle({
+            radius: 3,
+            fill: new ol.style.Fill({
+                color: 'black'
+            }),
+            stroke: new ol.style.Stroke({color: 'orange', width: 1})
+        })
     })
 });
 mapLayers.push(pointsLayer);
@@ -109,15 +109,39 @@ function onLayerClick(e) {
     var message = '';
     map.forEachFeatureAtPixel(e.pixel, function (feature, layer) {
         var p = feature.getProperties();
-        for (k in p) {
-            if (k !== 'geometry') {
-                message += k + ': ' + p[k] + '<br />';
+        if (p.FactoryID) {
+            //point
+            message += '<h3>' + p.FactoryName + '</h3>';
+            message += p.AddrOrg + '<br /><ul>';
+            message += '<li>' + p.IndustryClass + '</li>';
+            message += '<li>' + p.IndustryClass2 + '</li>';
+            message += '<li>' + p.prodname + '</li>';
+            if (p.web !== '') {
+                message += '<li>' + p.web + '</li>';
             }
+
+            message += '</ul>';
+        } else if (p.input) {
+            //zone
+            message += '<h3>' + p.縣市 + p.鄉鎮 + p.地段 + p.段號 + '</h3>';
+            message += '<ul><li><a href="' + p.url + '" target="_blank">原始公告</a></li></ul>';
+        } else if (p.url) {
+            //zone
+            message += '<h3>' + p.縣市 + p.鄉鎮 + p.段名 + p.地號 + '</h3>';
+            message += '<ul><li><a href="' + p.url + '" target="_blank">原始公告</a></li></ul>';
+        } else {
+            //ia
+            message += '<h3>' + p.FNAME + '</h3>';
         }
+//        for (k in p) {
+//            if (k !== 'geometry') {
+//                message += k + ': ' + p[k] + '<br />';
+//            }
+//        }
     });
     if (message !== '') {
-        popup.show(e.coordinate, message + ol.proj.transform(e.coordinate, 'EPSG:3857', 'EPSG:4326'));
+        //popup.show(e.coordinate, message + ol.proj.transform(e.coordinate, 'EPSG:3857', 'EPSG:4326'));
+        popup.show(e.coordinate, message);
         map.getView().setCenter(e.coordinate);
-        map.getView().setZoom(16);
     }
 }
