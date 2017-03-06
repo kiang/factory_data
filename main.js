@@ -74,13 +74,29 @@ var pointsLayer = new ol.layer.Vector({
         image: new ol.style.Circle({
             radius: 3,
             fill: new ol.style.Fill({
-                color: 'black'
+                color: 'blue'
             }),
-            stroke: new ol.style.Stroke({color: 'orange', width: 1})
+            stroke: new ol.style.Stroke({color: 'black', width: 1})
         })
     })
 });
 mapLayers.push(pointsLayer);
+var sgwcLayer = new ol.layer.Vector({
+    source: new ol.source.Vector({
+        url: 'sgwc/points.json',
+        format: new ol.format.GeoJSON()
+    }),
+    style: new ol.style.Style({
+        image: new ol.style.Circle({
+            radius: 3,
+            fill: new ol.style.Fill({
+                color: 'yellow'
+            }),
+            stroke: new ol.style.Stroke({color: 'black', width: 1})
+        })
+    })
+});
+mapLayers.push(sgwcLayer);
 var iaLayer = new ol.layer.Vector({
     source: new ol.source.Vector({
         url: 'ia.json',
@@ -120,6 +136,14 @@ function onLayerClick(e) {
                 message += '<li>' + p.web + '</li>';
             }
 
+            message += '</ul>';
+        } else if (p.SiteId) {
+            //sgwc
+            message += '<h3>' + p.SiteName + '</h3>';
+            message += p.AnnoNo + '<ul>';
+            message += '<li>' + p.AnnoDate + '</li>';
+            message += '<li>' + p.Pollutant + '</li>';
+            message += '<li>' + p.ControlType + '</li>';
             message += '</ul>';
         } else if (p.input) {
             //zone
