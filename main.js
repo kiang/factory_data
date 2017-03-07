@@ -87,8 +87,11 @@ var sgwcLayer = new ol.layer.Vector({
         format: new ol.format.GeoJSON()
     }),
     style: new ol.style.Style({
-        image: new ol.style.Circle({
-            radius: 3,
+        image: new ol.style.RegularShape({
+            radius: 5,
+            points: 3,
+            rotation: Math.PI / 4,
+            angle: 0,
             fill: new ol.style.Fill({
                 color: 'yellow'
             }),
